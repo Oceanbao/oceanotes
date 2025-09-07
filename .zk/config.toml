@@ -175,7 +175,7 @@ dead-link = "error"
 #list = "zk list --quiet $@"
 
 # Edit the last modified note.
-zke = "zk edit -i"
+e = "zk edit -i"
 
 # Edit the notes selected interactively among the notes created the last two weeks.
 # This alias doesn't take any argument, so we don't use $@.

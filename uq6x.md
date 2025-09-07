@@ -1,39 +1,13 @@
 # BROUILLION
 
-- [ ] 但资事堂发现的一份国寿资产关于耐心资本配置的研究报告提及，（耐心资本的权益投资）应关注长期基本面稳定、商业模式清晰、分红预期强的高股息资产，如通信、交通运输、公用事业等。(环保，)
-- [ ] test AI coding using Cursor, Trae, and other (web crawler and basic web app)
-- [ ] **organise notes and todos!!!!**
-- [ ] APP: is there a need to make a stock scanner? would trading app suffice? is there sth special
-
-- [ ] Fish and Chips QQ:885852023
-
-- [ ] SET all major date for ID/card expiration (calendar and note)
-- [ ] MUSE long term prep for growing assets to trade on, review current targets across currencies
-- [ ] REVAMP LIEN
-
-- [ ] DIG TRADING: what's the deal with ROE, FCF in eval stock?
-- [ ] SET smart goals for LETS
-- [ ] DATA CN stock input names, output key metrics (ROE, profit margin, cash flow, etc.) possible single-number
-
+- [ ] CONTENT: what Taichi did with anime, mixing music, picture, video in creating content, with the goal of attracting, learning, entertaining.
 - [ ] quantify LANG (tri-lang)
 - [ ] plan content
 - [ ] Ocean unique skills and ken (Britannica, making app, data science, multi-lang)
-
-- [ ] E: English Content, Info App (other app), what can I trade UK, HK, JP, TW, Malay, Singapore, (these cross-country-culture already asset for my other two proj!)
-- [ ] APP: tracker of food safety instances and crap products (CN)
-- [ ] MUSE: key future tech: crypto, P2P network, RISC-V chip vs GPU vs Arm
-- [ ] DIG: Google new AI updates: Gemma 3, Deep Research
-- [ ] DIG: global stay on digitial nomad visa (good start) + NZ residence permit still good one
-- [ ] APP: info model - collect, transform, present (require thining on biz model) (arbitrage, travel, etc.) (idea: how does ppl consume info in AI age: bot reads loads and distill key
-      insight, but then what, ppl ultimately need succinct points and numbers, or yes/no, good/bad) (data + RAG + AI + bot + visual)
-- [ ] CODE: study Outline code and org behind 'mattermost', seek to learn and join the community
-- [ ] APP: financial, theme-based (nuclear, robotaxi, robotics, AI) next big growth, mapping out key players, each with insightful financial mapping, but need more on narrative, expand ides
-- [ ] CONTENT/APP: podcast, blog, video, conversation on language, travel, culture, history, local, with friends (Ell, others)
-
-- [ ] social media: 知识星球, Himalaya, Weibo,
-
-#######################################################
-
+- [ ] SET smart goals for LETS
+- [ ] **organise notes and todos!!!!** (writing, English, code, social)
+- [ ] ENT: sell Ocean, coding, tutoring, remote-work, digital product, content, skills,
+      #######################################################
 - [ ] WECHAT saved in Ocean channel
 - [ ] BILIBILI saved (NEXT, UI, others?)
 - [ ] XHS saved
@@ -45,6 +19,36 @@
 - [ ] books on Mac (refer to PROJ)
 - [ ] Email - web stuff
 - [ ] phone - Brave Browser saves
+
+      #######################################################
+
+- [ ] APP: AI gen content website to earn ad but also being useful, curated content and process, stats, etc. quality content rather than crap, so need to craft the AI prompt and control the data transformation
+- [ ] APP: gamify young English learning, emulate Western kids content
+- [ ] CONTENT: love reading, lang, so need to consume more AND content more, design this (WWSS, sophophile, share words)
+- [ ] APP: website or wx-video broadcasting Channel V (feasible?)
+- [ ] APP: English, one article a day, enriched learning, voice (Elenventy v3), grammar, tests, exercises, context, further reading
+- [ ] APP: update peterb.gallery to astro
+- [ ] APP: what can i make on crypto ecosystem?
+
+- [ ] test AI coding using Cursor, Trae, and other (web crawler and basic web app)
+- [ ] APP: make a tailwind theme based on UK GOV
+
+- [ ] Fish and Chips QQ:885852023
+
+- [ ] SET all major date for ID/card expiration (calendar and note)
+- [ ] REVAMP LIEN
+- [ ] APP: crawl bilibili and other platform to get analytical info
+
+- [ ] E: English Content, Info App (other app), what can I trade UK, HK, JP, TW, Malay, Singapore, (these cross-country-culture already asset for my other two proj!)
+- [ ] APP: tracker of food safety instances and crap products (CN)
+- [ ] DIG: Google new AI updates: Gemma 3, Deep Research
+- [ ] DIG: global stay on digitial nomad visa (good start) + NZ residence permit still good one
+- [ ] APP: info model - collect, transform, present (require thining on biz model) (arbitrage, travel, etc.) (idea: how does ppl consume info in AI age: bot reads loads and distill key insight, but then what, ppl ultimately need succinct points and numbers, or yes/no, good/bad) (data + RAG + AI + bot + visual)
+- [ ] CODE: study Outline code and org behind 'mattermost', seek to learn and join the community
+- [ ] CONTENT/APP: podcast, blog, video, conversation on language, travel, culture, history, local, with friends (Ell, others)
+- [ ] CONTENT: video-english on quality humanity, art, (Fry) talks from YouTube, about language etcs
+- [ ] BIZ: eee, companionship, learning, fun, online, reading, language
+- [ ] social media: 知识星球, Himalaya, Weibo,
 
 ## NOTES
 
@@ -214,35 +218,24 @@ Investors often use these categories to build diversified portfolios that align 
 ############################################################
 ############################################################
 
-what to make, end2end, not just skills, but sharpen-hone skills and knowledge through building products
-**so product-oriented building projects**
+## EEE (Edu, Exp, Ent)
 
-what to do once having (LANG, DS APP, ECON-FIN BLOG):
-
-- job for BD edging on multi-lingual and cross-cultural communication and event mgt
-- job for all kinds of quantitative analysis
-
-enterprising:
-
-- cannot resell products, no edge
-- cannot sell own products, no edge
-
-**JOB**
-
-- initial jobless claim
-- JOLT
-- challenger survey
-- monthly job report
-
-## EEE
-
-- English content plus
-- Info app plus
-- biz model harnessing global network
+- Tutor of English (wider sense, knowledge, need CELTA)
+- CONTENT: English content wider
+- Polyglot skill for fun and profit
+- code and DS for fun and profit
+- biz model harnessing global network (trade goods, service value)
+- CONTENT: curious, intriguing, informative, VAT reportage (educational and entertaining)
+- JOB: remote quant, web,
 
 - pan-research and insight reportage: AI deep research + reasoning replaces lots of human work, it has breadth and summary, but it's not original
 - novelty will always be key, though what's originality, lots of topics have been written, cue PEW Research (AI can yet to do the level of research)
-- AI takes on textual, but yet to match video reportage (VAT content creation, on special topics or curious ideas)
 - AI not replacing DS, in what sense, it can't do econmetics and mutlimodal? cue Thinking Bayesian, I doubt it. (so productise Thinking Bayesian)
 - AI takes over basic and tedious tasks, then move up the value chain. What's the top level: management, operation, decision, meeting people,
 - 1000 diehard fans community IP building - provide niche and unique value to fans
+
+- Language and all about it is solved by AI. what does it mean for learner, teacher, maker of services and products.
+
+- web3 dev, remote job
+- get passport
+- sport community + English
