@@ -1,5 +1,36 @@
 # BROUILLION
 
+## TRADEE
+
+Origin: 240W (105W)
+Now: 100W + $100,000
+Crypto: $40,000 (down from $70,000) (loss $30,000)
+Extra: 80W
+
+### NOW
+
+- LAOPU: 1W KD cycle, missed two 1D KD dip spread
+- A-share 5 stakes: watch 1D KD x and sell, bad 1W KD signal
+- Banks: worth spreading 1W KD low
+- US: top alts to watch the next KD spread
+
+### Note
+
+- [ ] build algo to scout big risers !!! 舒泰神 (app to monitor 1W KD level fitlered by top vol)
+- [ ] RMB: you dont know which one, but proba wins, spread over 4 or 5 same sector, because it's momentum thing, they move together, sector rotation, so key is find an algo to monitor sector rotation
+- [ ] Research USD: internal dynamic of the market is the best economist (build model) (correlation with JOLT and rate)
+- [ ] APP: financial, theme-based (nuclear, robotaxi, robotics, AI) next big growth, mapping out key players, each with insightful financial mapping, but need more on narrative, expand ides
+- [ ] APP: stocker, create a MOAT index using various metrics, by sector,
+- [ ] APP: stocker, news stream? or rather key news, filtered, op-ed, agent analysis of stock, sector, market, using everything learned,
+- [ ] APP: start project on fin-app, collect data, build scaffold, db, etc.
+
+**JOB Data**
+
+- initial jobless claim
+- JOLT
+- challenger survey
+- monthly job report
+
 - [ ] CONTENT: what Taichi did with anime, mixing music, picture, video in creating content, with the goal of attracting, learning, entertaining.
 - [ ] quantify LANG (tri-lang)
 - [ ] plan content
